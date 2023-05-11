@@ -10,9 +10,9 @@
     ├── original           
     ├── src
         │
-        ├── data         
-        │   
         ├── notebooks      
         │
         └── python files
 --------
+## ${Notes \space On \space Data}$
+* Data is too large to be uploaded

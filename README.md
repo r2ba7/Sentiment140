@@ -6,8 +6,7 @@
 ## ${Preprocessing \space notes}$
 * Worth saying, data preprocessing using pandas took approximitaly 400 seconds, while same processing using PySpark took approximatly 120 seconds. But the reason for using pandas over PySpark that PySpark cleaning resulted in some Nulls unlike Pandas, it didn't affect anyway but worth saying.
 ## ${Project \space Structure}$
-    ├── README.md          
-    ├── original           
+    ├── README.md                  
     ├── src
         │
         ├── notebooks      

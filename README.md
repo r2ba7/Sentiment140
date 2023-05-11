@@ -16,3 +16,6 @@
 --------
 ## ${Notes \space On \space Data}$
 * Data is too large to be uploaded
+## ${Models \space Used}$
+* LSTM + PyTorch + Pandas/PySpark for first phase.
+* transformers + PyTorch Lightening + Pandas for second phase.
